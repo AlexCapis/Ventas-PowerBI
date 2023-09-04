@@ -56,10 +56,59 @@ Primero, realicé transformaciones en el conjunto de datos a través del editor 
 ## Visualizaciones
 
 
-## Segmentación de Datos
+- **Total de copias vendidas**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/cantidad_copias_millones.png " alt="drawing" width="500"/>
+    </details>
+
+- **Gráfico Circular de Ventas por Región**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/grafico_circular.png " alt="drawing" width="500"/>
+    </details>
 
 
-## Hipervínculo de Regreso
+- **Gráfico de Barras Apiladas por Plataforma y Región**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/plataforma_por_region.png " alt="drawing" width="500"/>
+    </details>
+
+
+- **Gráfico de Barras Apiladas por Género y Región**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/genero_por_region.png" alt="drawing" width="500"/>
+    </details>
+
+- **Tabla de Datos**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/tabla_ventas_videojuegos.png" alt="drawing" width="500"/>
+    </details>
+
+
+- **Gráfico de Columnas Apiladas por Año y Región**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/ventas_por_ano_region.png" alt="drawing" width="500"/>
+    </details>
+
+
+- **Segmentación de Datos**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/segmentaciones.png" alt="drawing" width="500"/>
+    </details>
+
+
+- **Hipervínculo de Regreso**: 
+    <details>
+    <summary>Mostrar</summary>
+    <img src="./docs/images/hipervinculo.png" alt="drawing" width="100"/>
+    </details>
+
 
 
 ## Conclusiones
