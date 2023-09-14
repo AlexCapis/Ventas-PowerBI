@@ -1,4 +1,5 @@
-# 🎮 Análisis de Ventas de Videojuegos con Power BI 📊
+# 🎮  Tras los Controles: Un Viaje a Través de las Ventas de Videojuegos con Power BI 📊
+
 
 ![Ventas de Videojuegos en Power BI](./docs/images/ventas_videojuegos.png)
 
