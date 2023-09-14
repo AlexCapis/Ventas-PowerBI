@@ -1,20 +1,20 @@
-# Análisis de Ventas de Videojuegos en Power BI
+# 🎮 Análisis de Ventas de Videojuegos con Power BI 📊
 
 ![Ventas de Videojuegos en Power BI](./docs/images/ventas_videojuegos.png)
 
-#### Autor: [Alex Marzá Manuel](https://github.com/AlexCapis)
+#### 👤 Autor: [Alex Marzá Manuel](https://github.com/AlexCapis)
 
-## 1. Introducción
+## 📝 Descripción del Proyecto
 
-Este proyecto tiene como objetivo realizar un análisis detallado de las ventas de videojuegos utilizando Power BI. A lo largo de este notebook, explicaré las transformaciones de datos, visualizaciones y segmentaciones que he aplicado al conjunto de datos original para proporcionar una visión clara y detallada de las ventas de videojuegos.
+¡Bienvenido a "Tras los Controles: Un Viaje a Través de las Ventas de Videojuegos con Power BI"! Este proyecto te invita a explorar un análisis exhaustivo de las ventas de videojuegos utilizando Power BI. A lo largo de este notebook, encontrarás transformaciones de datos, visualizaciones y segmentaciones que proporcionan una visión clara y detallada de las ventas de videojuegos.
 
-**Requisitos Previos:**
+## 🔍 Requisitos Previos
 
-Para ejecutar este proyecto, asegúrate de tener Power BI instalado y el conjunto de datos "ventas_videojuegos.xlsx" disponible en la carpeta "[data](https://github.com/AlexCapis/Ventas-PowerBI/tree/main/data)" del repositorio.
+Antes de comenzar, asegúrate de tener Power BI instalado y el conjunto de datos "ventas_videojuegos.xlsx" disponible en la carpeta [data](https://github.com/AlexCapis/Ventas-PowerBI/tree/main/data) del repositorio.
 
-## 2. Estructura de carpetas
+## 📂 Estructura de Carpetas
 
-Para una fácil navegación, he organizado el repositorio de la siguiente manera:
+Para facilitar la navegación, hemos organizado el repositorio de la siguiente manera:
 
 - [data](https://github.com/AlexCapis/Ventas-PowerBI/tree/main/data): Contiene los archivos relacionados con los datos utilizados en el proyecto de Power BI.
 
@@ -32,86 +32,91 @@ Para una fácil navegación, he organizado el repositorio de la siguiente manera
 
 - `.gitignore`: Un archivo que especifica qué archivos o carpetas deben ser ignorados por Git al realizar seguimiento de cambios.
 
+## 📹 Demostración en Video
 
-
-
-
-## Demostración en Video
-
-Antes de sumergirse en los detalles, echa un vistazo a nuestra demostración en video que te guiará a través de las funcionalidades clave de este proyecto en Power BI. ¡Haz clic en la imagen para ver el video!
+Antes de sumergirse en los detalles, te invitamos a ver una demostración en video que te guiará a través de las funcionalidades clave de este proyecto en Power BI. Haz clic en la imagen a continuación para ver el video:
 
 [![Demostración en Video](../docs/images/video_thumbnail.png)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
 
-## Configuración de los Datos
+## 📊 Configuración de los Datos
 
-Primero, realicé transformaciones en el conjunto de datos a través del editor de Power Query para obtener las siguientes columnas: 
+Para comenzar, realizamos transformaciones en el conjunto de datos a través del editor de Power Query para obtener las siguientes columnas:
+
 - Nombre
-- Plataforma 
+- Plataforma
 - Año
-- Género 
-- Editorial 
-- Región 
+- Género
+- Editorial
+- Región
 - Ventas (en millones).
 
-## Visualizaciones
+## 📈 Visualizaciones Destacadas
+
+### 1. Total de Copias Vendidas
+
+<details>
+<summary>Mostrar</summary>
+<img src="./docs/images/cantidad_copias_millones.png " alt="drawing" width="500"/>
+</details>
+
+### 2. Gráfico Circular de Ventas por Región
+
+<details>
+<summary>Mostrar</summary>
+<img src="./docs/images/grafico_circular.png " alt="drawing" width="500"/>
+</details>
 
 
-- **Total de copias vendidas**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/cantidad_copias_millones.png " alt="drawing" width="500"/>
-    </details>
+### 3. Gráfico de Barras Apiladas por Plataforma y Región
 
-- **Gráfico Circular de Ventas por Región**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/grafico_circular.png " alt="drawing" width="500"/>
-    </details>
+<details>
+<summary>Mostrar</summary>
+<img src="./docs/images/plataforma_por_region.png " alt="drawing" width="500"/>
+</details>
 
 
-- **Gráfico de Barras Apiladas por Plataforma y Región**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/plataforma_por_region.png " alt="drawing" width="500"/>
-    </details>
+### 4. Gráfico de Barras Apiladas por Género y Región
+
+<details>
+<summary>Mostrar</summary>
+<img src="./docs/images/genero_por_region.png" alt="drawing" width="500"/>
+</details>
 
 
-- **Gráfico de Barras Apiladas por Género y Región**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/genero_por_region.png" alt="drawing" width="500"/>
-    </details>
+### 5. Tabla de Datos
 
-- **Tabla de Datos**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/tabla_ventas_videojuegos.png" alt="drawing" width="500"/>
-    </details>
+<details>
+<summary>Mostrar</summary>
+<img src="./docs/images/tabla_ventas_videojuegos.png" alt="drawing" width="500"/>
+</details>
 
+### 6. Gráfico de Columnas Apiladas por Año y Región
 
-- **Gráfico de Columnas Apiladas por Año y Región**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/ventas_por_ano_region.png" alt="drawing" width="500"/>
-    </details>
+<details>
+<summary>Mostrar</summary>
+<img src="./docs/images/ventas_por_ano_region.png" alt="drawing" width="500"/>
+</details>
 
+## 🎯 Segmentación de Datos
 
-- **Segmentación de Datos**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/segmentaciones.png" alt="drawing" width="500"/>
-    </details>
+Para facilitar la exploración de datos, hemos creado segmentaciones por las siguientes categorías:
 
+- Segmentación por Año
+- Segmentación por Región
+- Segmentación por Plataforma
+- Segmentación por Género
+- Segmentación por Editorial
 
-- **Hipervínculo de Regreso**: 
-    <details>
-    <summary>Mostrar</summary>
-    <img src="./docs/images/hipervinculo.png" alt="drawing" width="100"/>
-    </details>
+<details>
+<summary>Mostrar</summary>
+<img src="./docs/images/segmentaciones.png" alt="drawing" width="500"/>
+</details>
 
 
+## 📢 Conclusiones
 
-## Conclusiones
+En este proyecto, se han extraído valiosas conclusiones sobre las ventas de videojuegos, incluyendo la distribución global de ventas, las tendencias a lo largo del tiempo y las preferencias de género en diferentes regiones. Estas conclusiones tienen el potencial de guiar decisiones estratégicas en la industria de los videojuegos.
 
+¡Disfruta explorando los datos y saca el máximo provecho de este análisis en Power BI!
 
 
