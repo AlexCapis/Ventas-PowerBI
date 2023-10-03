@@ -56,8 +56,9 @@ A continuación, se muestra la imagen completa del dashboard donde se pueden apr
 
 Antes de sumergirse en los detalles, te invitamos a ver una demostración en video que te guiará a través de las funcionalidades clave de este proyecto en Power BI. Haz clic en la imagen a continuación para ver el video:
 
+
 <p align="center">
-  <img src="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI/blob/main/docs/clips/ventas_videojuegos.gif">
+  <img src="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI/raw/main/docs/clips/ventas_videojuegos.gif">
 </p>
 
 
