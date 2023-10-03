@@ -1,10 +1,10 @@
 # 🎮  Tras los Controles: Un Viaje a Través de las Ventas de Videojuegos con Power BI 📊
 
 
-PONER FOTO PARA ATRAER A LA GENTE
 
 
-![Ventas de Videojuegos en Power BI](./docs/images/ventas_videojuegos.png)
+![Ventas de Videojuegos en Power BI](./docs/images/portada_venta_videojuegos.png)
+
 
 #### 👤 Autor: [Alex Marzá Manuel](https://github.com/AlexCapis)
 
@@ -44,11 +44,22 @@ Para facilitar la navegación, hemos organizado el repositorio de la siguiente m
 
 - `.gitignore`: Un archivo que especifica qué archivos o carpetas deben ser ignorados por Git al realizar seguimiento de cambios.
 
+## 📈 Visualización del Dashboard
+
+A continuación, se muestra la imagen completa del dashboard donde se pueden apreciar las diversas visualizaciones realizadas complementadas por una gran variedad de segmentadores y un botón de reestablecer para que la búsqueda de los datos sea más interactiva y práctica.
+
+![Ventas de Videojuegos en Power BI](./docs/images/ventas_videojuegos.png)
+
+
+
 ## 📹 Demostración en Video
 
 Antes de sumergirse en los detalles, te invitamos a ver una demostración en video que te guiará a través de las funcionalidades clave de este proyecto en Power BI. Haz clic en la imagen a continuación para ver el video:
 
-[![Demostración en Video](../docs/images/video_thumbnail.png)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+<p align="center">
+  <img src="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI/blob/main/docs/ventas_videojuegos.mp4">
+</p>
+
 
 ## 📊 Configuración de los Datos
 
@@ -62,52 +73,7 @@ Para comenzar, realizamos transformaciones en el conjunto de datos a través del
 - Región
 - Ventas (en millones).
 
-## 📈 Visualizaciones Destacadas
 
-### 1. Total de Copias Vendidas
-
-<details>
-<summary>Mostrar</summary>
-<img src="./docs/images/cantidad_copias_millones.png " alt="drawing" width="500"/>
-</details>
-
-### 2. Gráfico Circular de Ventas por Región
-
-<details>
-<summary>Mostrar</summary>
-<img src="./docs/images/grafico_circular.png " alt="drawing" width="500"/>
-</details>
-
-
-### 3. Gráfico de Barras Apiladas por Plataforma y Región
-
-<details>
-<summary>Mostrar</summary>
-<img src="./docs/images/plataforma_por_region.png " alt="drawing" width="500"/>
-</details>
-
-
-### 4. Gráfico de Barras Apiladas por Género y Región
-
-<details>
-<summary>Mostrar</summary>
-<img src="./docs/images/genero_por_region.png" alt="drawing" width="500"/>
-</details>
-
-
-### 5. Tabla de Datos
-
-<details>
-<summary>Mostrar</summary>
-<img src="./docs/images/tabla_ventas_videojuegos.png" alt="drawing" width="500"/>
-</details>
-
-### 6. Gráfico de Columnas Apiladas por Año y Región
-
-<details>
-<summary>Mostrar</summary>
-<img src="./docs/images/ventas_por_ano_region.png" alt="drawing" width="500"/>
-</details>
 
 ## 🎯 Segmentación de Datos
 
