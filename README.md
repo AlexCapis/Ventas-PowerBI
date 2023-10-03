@@ -1,17 +1,28 @@
 # 🎮  Tras los Controles: Un Viaje a Través de las Ventas de Videojuegos con Power BI 📊
 
 
+PONER FOTO PARA ATRAER A LA GENTE
+
+
 ![Ventas de Videojuegos en Power BI](./docs/images/ventas_videojuegos.png)
 
 #### 👤 Autor: [Alex Marzá Manuel](https://github.com/AlexCapis)
 
 ## 📝 Descripción del Proyecto
 
-¡Bienvenido a "Tras los Controles: Un Viaje a Través de las Ventas de Videojuegos con Power BI"! Este proyecto te invita a explorar un análisis exhaustivo de las ventas de videojuegos utilizando Power BI. A lo largo de este notebook, encontrarás transformaciones de datos, visualizaciones y segmentaciones que proporcionan una visión clara y detallada de las ventas de videojuegos.
+¡Bienvenido a **Tras los Controles: Un Viaje a Través de las Ventas de Videojuegos con Power BI** !Este proyecto te invita a explorar un análisis exhaustivo de las ventas de videojuegos utilizando Power BI. A lo largo de este notebook, encontrarás transformaciones de datos, visualizaciones y segmentaciones que proporcionan una visión clara y detallada de las ventas de videojuegos.
 
-## 🔍 Requisitos Previos
 
-Antes de comenzar, asegúrate de tener Power BI instalado y el conjunto de datos "ventas_videojuegos.xlsx" disponible en la carpeta [data](https://github.com/AlexCapis/Ventas-PowerBI/tree/main/data) del repositorio.
+
+## 📋Requisitos Previos
+
+
+Antes de comenzar con este proyecto, es fundamental asegurarse de contar con los siguientes elementos:
+
+- **Power BI**: Este proyecto se desarrolla utilizando Power BI como la herramienta principal para la visualización de datos. Si aún no tienes Power BI instalado en tu sistema, puedes descargar la versión más reciente de Power BI Desktop haciendo clic [aquí](https://powerbi.microsoft.com/es-es/desktop/).
+
+- **Conjuntos de Datos**: Para poder llevar a cabo el análisis y las visualizaciones pertinentes, necesitarás disponer del conjunto de datos `ventas_videojuegos.xlsx` disponible en la carpeta [data](https://github.com/AlexCapis/Ventas-PowerBI/tree/main/data) del repositorio
+
 
 ## 📂 Estructura de Carpetas
 
